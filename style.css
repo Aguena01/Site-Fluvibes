@@ -1,4 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 body{ 
-    background-color: #FFF0F8  
+    background-image: linear-gradient(#FFF0F8, #C7C3DD);
+    height: 4096px;
 
 }
+
+.banner-do-site{
+
+    width: 100%;
+
+}
+
+.div-caixa{
+
+    display: flex;
+    justify-content: center; 
+    
+    
+}
+
+.media-social{
+
+    width: 5%;
+    padding: 10%;
+
+
+}
+
+
