@@ -7,6 +7,7 @@
 body{ 
     background-image: linear-gradient(#FFF0F8, #C7C3DD);
     height: 4096px;
+    font-family: 'Inria Sans', sans-serif;
 
 }
 
@@ -31,5 +32,4 @@ body{
 
 
 }
-
 
